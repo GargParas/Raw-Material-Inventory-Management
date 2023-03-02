@@ -29,11 +29,15 @@ https://user-images.githubusercontent.com/91370703/222535768-ac84c78f-7bc5-4318-
 ## Screenshots
 ---
 
-![Form](https://github.com/GargParas/Employee-Form-with-Navigation-and-more-Control-Buttons/blob/main/images/Screenshot%20(29).png)
-![Fetching](https://github.com/GargParas/Employee-Form-with-Navigation-and-more-Control-Buttons/blob/main/images/Screenshot%20(30).png)
-![Adding](https://github.com/GargParas/Employee-Form-with-Navigation-and-more-Control-Buttons/blob/main/images/Screenshot%20(31).png)
+![Form](https://github.com/GargParas/Raw-Material-Inventory-Management/blob/main/images/Screenshot%20(33).png)
+![Item Management](https://github.com/GargParas/Raw-Material-Inventory-Management/blob/main/images/Screenshot%20(34).png)
+![Item Issued](https://github.com/GargParas/Raw-Material-Inventory-Management/blob/main/images/Screenshot%20(39).png)
+![Item Received](https://github.com/GargParas/Raw-Material-Inventory-Management/blob/main/images/Screenshot%20(37).png)
+![Report Preparing](https://github.com/GargParas/Raw-Material-Inventory-Management/blob/main/images/Screenshot%20(35).png)
+![Report](https://github.com/GargParas/Raw-Material-Inventory-Management/blob/main/images/Screenshot%20(36).png)
+
 	
- ## Release History
+## Release History
 #### v0.0.0 (22/02/2023)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
@@ -44,13 +48,21 @@ https://user-images.githubusercontent.com/91370703/222535768-ac84c78f-7bc5-4318-
 - [#3] Added JS and connected pages to JsonPowerDB
 - [#4] Few CSS changes
 ---
-  
+
+## Important Links
+---
+
+* Home page: https://login2explore.com
+* Register to use JsonPowerDB: http://api.login2explore.com
+* JsonPowerDB Help: https://login2explore.com/jpdb/docs.html
+
 #### Requirements
-  * Web Browser
-  * Database Connection Token
-  
+* Web Browser
+* Database Connection Token
+* NetBeans IDE
+
 #### Execution
 * open project in NetBeans IDE and right click -> Run. 
 
 #### Scope of functionalities
-* It is a very basic project for demonstration of JsonPowerDb with help of a web application for Item management. 
+* It is the project for demonstration of JsonPowerDb with help of a web application for Item management. 
